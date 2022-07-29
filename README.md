@@ -35,6 +35,8 @@ Vào [Portal](http://portal1.hcmus.edu.vn/) -> Đăng nhập -> Chọn <b>Quản
 - <ins><b>Bước 3</b></ins>: Mở <b>Console</b> và Paste code:<br>
 Khi <b>DevTools</b> hiện ra -> Chọn <b>Console</b> -> Paste [Code Javascript](https://github.com/nthhcmus/Calculate-HCMUS-GPA/blob/main/cal_GPA.js) -> Enter
 
+<b>Lưu ý</b>: Nhớ sửa mã môn cơ sở ngành trong code javascript (được đánh dấu bằng comment //) nếu bạn không học CNTT để tính được GPA các môn cơ sở ngành
+
 <h4>Thông tin về Số tín chỉ, GPA, GPA cơ sở ngành lúc này hiện trên console và được thông báo trên màn hình bằng alert()
 </details>
 --------------------------------------------------------------------------------<br>
