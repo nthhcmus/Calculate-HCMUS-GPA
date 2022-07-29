@@ -1,6 +1,7 @@
 /*
     Author:     Salmon
     Guideline:  Copy + Paste vao Console of Devtools, chi tiet doc https://github.com/nthhcmus/Calculate-HCMUS-GPA/blob/main/README.md
+    References:   https://gist.github.com/shivaluma/e1f420be1d3cf8e6c6287539e8abcf89 (Chỉnh sửa và bổ sung thêm)
 */
 function convert10to4(a) {
 	if(a >= 9) return 4;
