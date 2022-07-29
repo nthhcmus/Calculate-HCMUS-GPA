@@ -1,4 +1,4 @@
-# Calculate-HCMUS-GPA
+# Calculate-HCMUS-GPA Guideline
 > (Only HCMUS) Calculate 10.0 & 4.0 scale GPA in HCMUS's portal <br>
 > (Chỉ HCMUS) Tính GPA hệ 10 và hệ 4 của bạn trên portal <br>
 <details>
