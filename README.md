@@ -11,7 +11,7 @@
 <h4> Công thức tính (Nguồn: Sổ tay sinh viên 2021):</h4>
 <img src="GPA_calculaion formula.png" width="50% height="50%" >
 </body> 
-<br>-------------------------------------------------------------------------------------------------------------------------------------<br>
+<br>------------------------------------------------------------------------------------------------<br>
 
 ### Chi tiết
 - Bỏ các học phần: Giáo dục quốc phòng - An ninh, Giáo dục thể chất (Thể dục), Ngoại ngữ, Tin học cơ sở, các môn rớt, vắng <br>
@@ -39,10 +39,8 @@ Khi <b>DevTools</b> hiện ra -> Chọn <b>Console</b> -> Paste [Code Javascript
 
 <h4>Thông tin về Số tín chỉ, GPA, GPA cơ sở ngành lúc này hiện trên console và được thông báo trên màn hình bằng alert()
 </details>
---------------------------------------------------------------------------------<br>
+
 <pre>
 Author:       Salmon 
-Des:          Copy + Paste code js vào console để tính GPA trên Portal HCMUS
-References:   https://gist.github.com/shivaluma/e1f420be1d3cf8e6c6287539e8abcf89 
-              (Chỉnh sửa và bổ sung thêm)
+Des:          Copy + Paste code js vào console để tính GPA trên HCMUS Portal
 </pre>
